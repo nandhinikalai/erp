@@ -272,10 +272,10 @@
     </select>
   </div>
 
-  <div class="form-group col-lg-3">
+  {{-- <div class="form-group col-lg-3">
     <label>Remarks</label>
      <textarea name="remarks" class="form-control form-control-sm" cols="30" rows="5"></textarea>
-  </div>
+  </div> --}}
 
   <div class="form-group col-lg-3">
     <label>Enrollment Date</label>
